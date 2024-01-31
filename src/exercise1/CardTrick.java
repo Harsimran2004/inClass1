@@ -91,6 +91,8 @@ public class CardTrick {
         System.out.println("-- Riding my motorcycle");
 
         System.out.println();
+	System.out.println("-- modifying info");
+
         
     
 }
